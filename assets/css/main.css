@@ -1,0 +1,10 @@
+* {
+    font-family: 'Permanent Marker', cursive;
+    color: white;
+}
+
+body{
+    background-image:url("../img/background.gif");
+    background-repeat: no-repeat;
+    background-size: cover; 
+}
