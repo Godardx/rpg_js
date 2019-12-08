@@ -12,4 +12,18 @@ points de résistance, force, xp).
 - /!\ Le jeu doit comporter au minimum 10 embranchement et au maximum 20 embranchement. /!\
 
 
-Voici le RPG de Thomas GODARD B2A Ingésup à Ynov Aix en Provence.
+!!! Voici le RPG de Thomas GODARD B2A Ingésup à Ynov Aix en Provence. !!!
+
+
+Vous êtes un jeune samurai qui se nomme ... (le joueur qui aura décidé de son nom) qui déjeune tranquillement dans un petit stand de nouille.
+Tout à coup un cri retentit... 
+"AHHHHHHHHHHHHHHHHH............."
+Mais qu'est ce que ça peut bien être ? 
+Jouer pour connître la suite de l'histoire ! En serez-vous capable ?
+
+Vous commencez avec 5 HP  / ? HP
+		    0XP   / ? XP
+		    0 RM  / ? RM
+		    1 ATT / ? ATT
+
+Vous voulez connaître la suite ? À vous de vous la construire !
