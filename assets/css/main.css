@@ -17,3 +17,7 @@ body {
     margin-top: 18%;
     margin-left: 5%;
 }
+
+body p {
+    font-size: 185%;
+}
