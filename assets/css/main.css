@@ -20,4 +20,16 @@ body {
 
 body p {
     font-size: 185%;
+    text-align: center;
+    margin-top: 15%;
+    color: white;
+}
+
+body h2 {
+    margin-top: 18%;
+    margin-left: 5%;
+}
+
+#choix-1 button {
+    color: black;
 }
