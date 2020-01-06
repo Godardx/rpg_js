@@ -8,16 +8,16 @@ function param() {
 }
 
 // function choix1 {
-//     document.body.innerHTML = "<p> </p>";
+//     document.body.innerHTML = "<p>Vous avez votre armure + 5 Et votre sabre + 4 d'attaque mais la jeune femme est morte en laissant une note sur le côté</p> <br> <p> Vous lisez la note ou il y est écrit "Sauvez ma fille de c'est brigant je vous en supplie !" </p>";
 // }
 
 // function choix2 {
-//     document.body.innerHTML = " Vous n'allez pas chercher votre équipement mais vous préféré sauver la jeune femme dessuite";
+//     document.body.innerHTML = "<p>Vous décidez d'aller la fille comme dette de ne pas avoir réussi à sauver sa mère à temps</p>";
 
 // }
 
 // function choix3 {
-//     document.body.innerHTML = "";
+//     document.body.innerHTML = "<p>Vous décidez de ne pas l'aider --> FIN </p>";
 
 // }
 
