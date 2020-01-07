@@ -27,6 +27,16 @@ let chapitre17Div = document.getElementById("chapitre17");
 let chapitre18Div = document.getElementById("chapitre18");
 let chapitre19Div = document.getElementById("chapitre19");
 let chapitre20Div = document.getElementById("chapitre20");
+let chapitre21Div = document.getElementById("chapitre21");
+let chapitre22Div = document.getElementById("chapitre22");
+let chapitre23Div = document.getElementById("chapitre23");
+let chapitre24Div = document.getElementById("chapitre24");
+let chapitre25Div = document.getElementById("chapitre25");
+let chapitre26Div = document.getElementById("chapitre26");
+let chapitre27Div = document.getElementById("chapitre27");
+let chapitre28Div = document.getElementById("chapitre28");
+let chapitre29Div = document.getElementById("chapitre29");
+let chapitre30Div = document.getElementById("chapitre30");
 
 let home = document.getElementById("home");
 
@@ -161,4 +171,100 @@ function suite4() {
     chapitre15Div.style.display = "none";
     chapitre16Div.style.display = "block";
     document.body.style.backgroundImage = "url('assets/img/renseignement.gif')";
+}
+
+function choix11() {
+    chapitre16Div.style.display = "none";
+    chapitre17Div.style.display = "block";
+}
+
+function choix12() {
+    chapitre16Div.style.display = "none";
+    chapitre18Div.style.display = "block";
+    document.body.style.backgroundImage = "url('assets/img/ville.gif')";
+}
+
+function choix13() {
+    chapitre17Div.style.display = "none";
+    chapitre23Div.style.display = "block";
+    document.body.style.backgroundImage = "url('assets/img/base.gif')";
+}
+
+function choix14() {
+    chapitre17Div.style.display = "none";
+    chapitre19Div.style.display = "block";
+    document.body.style.backgroundImage = "url('assets/img/ville.gif')";
+}
+
+function suite5() {
+    chapitre18Div.style.display = "none";
+    chapitre19Div.style.display = "none";
+    chapitre20Div.style.display = "block";
+}
+
+function choix15() {
+    chapitre20Div.style.display = "none";
+    chapitre22Div.style.display = "block";
+}
+
+function choix16() {
+    chapitre20Div.style.display = "none";
+    chapitre21Div.style.display = "block";
+}
+
+function suite6() {
+    chapitre22Div.style.display = "none";
+    chapitre21Div.style.display = "none";
+    chapitre23Div.style.display = "block";
+    document.body.style.backgroundImage = "url('assets/img/base.gif')";
+}
+
+function choix17() {
+    chapitre23Div.style.display = "none";
+    chapitre24Div.style.display = "block";
+}
+
+function choix18() {
+    chapitre23Div.style.display = "none";
+    chapitre25Div.style.display = "block";
+}
+
+function choix19() {
+    chapitre24Div.style.display = "none";
+    chapitre27Div.style.display = "block"
+}
+
+function choix20() {
+    chapitre24Div.style.display = "none";
+    chapitre27Div.style.display = "block"
+}
+
+function suite7() {
+    chapitre24Div.style.display = "none"
+    chapitre25Div.style.display = "none";
+    chapitre26Div.style.display = "block";
+    document.body.style.backgroundImage = "url('assets/img/death.jpg')";
+}
+
+function choix21() {
+    chapitre27Div.style.display = "none";
+    chapitre28Div.style.display = "block"
+}
+
+
+function choix22() {
+    chapitre27Div.style.display = "none";
+    chapitre29Div.style.display = "block"
+}
+
+function suite8() {
+    chapitre28Div.style.display = "none";
+    chapitre30Div.style.display = "block";
+    document.body.style.backgroundImage = "url('assets/img/fin.gif')";
+}
+
+function suite9() {
+    chapitre29Div.style.display = "none";
+    chapitre30Div.style.display = "block";
+    document.body.style.backgroundImage = "url('assets/img/fin.gif')";
 }

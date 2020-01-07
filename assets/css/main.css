@@ -53,7 +53,17 @@ button {
 #chapitre17,
 #chapitre18,
 #chapitre19,
-#chapitre20 {
+#chapitre20,
+#chapitre21,
+#chapitre22,
+#chapitre23,
+#chapitre24,
+#chapitre25,
+#chapitre26,
+#chapitre27,
+#chapitre28,
+#chapitre29,
+#chapitre30 {
     display: none;
 }
 
@@ -78,5 +88,9 @@ button {
 }
 
 #chapitre06 p {
+    margin-top: 50px;
+}
+
+#chapitre26 p {
     margin-top: 50px;
 }
