@@ -30,6 +30,29 @@ body h2 {
     margin-left: 5%;
 }
 
-#choix-1 button {
+button {
     color: black;
+}
+
+#chapitre01,
+#chapitre02,
+#chapitre03,
+#chapitre04,
+#chapitre05,
+#chapitre06,
+#chapitre07,
+#chapitre08 {
+    display: none;
+}
+
+#histoire {
+    text-align: center;
+}
+
+#chapitre02 {
+    margin-top: 30px;
+}
+
+#chapitre03 p {
+    margin-top: 50px;
 }
