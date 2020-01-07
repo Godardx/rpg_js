@@ -98,13 +98,67 @@ function suite() {
     chapitre08Div.style.display = "block";
 }
 
-function shop() {
-    chapitre07Div.style.display = "none";
-    chapitre08Div.style.display = "none";
-    chapitre09Div.style.display = "block";
+function chapitre10() {
+    chapitre08Div.style.display = "none"
+    chapitre10Div.style.display = "block"
 }
 
-function chapitre08() {
-    chapitre08Div.style.display = "none"
+function shop() {
+    chapitre08Div.style.display = "none";
+    chapitre09Div.style.display = "block";
     document.body.style.backgroundImage = "url('assets/img/shop.gif')";
+}
+
+function chapitre11() {
+    chapitre09Div.style.display = "none";
+    chapitre10Div.style.display = "block";
+}
+
+function chapitre12() {
+    chapitre10Div.style.display = "none";
+    chapitre11Div.style.display = "block";
+}
+
+function choix7() {
+    chapitre09Div.style.display = "none";
+    chapitre10Div.style.display = "block";
+}
+
+function choix8() {
+    chapitre09Div.style.display = "none";
+    chapitre11Div.style.display = "block";
+}
+
+function suite1() {
+    chapitre11Div.style.display = "none";
+    chapitre16Div.style.display = "block";
+    document.body.style.backgroundImage = "url('assets/img/renseignement.gif')";
+}
+
+function suite2() {
+    chapitre10Div.style.display = "none";
+    chapitre13Div.style.display = "block";
+    document.body.style.backgroundImage = "url('assets/img/ville.gif')";
+}
+
+function choix9() {
+    chapitre13Div.style.display = "none";
+    chapitre14Div.style.display = "block";
+}
+
+function choix10() {
+    chapitre13Div.style.display = "none";
+    chapitre15Div.style.display = "block";
+}
+
+function suite3() {
+    chapitre14Div.style.display = "none";
+    chapitre16Div.style.display = "block";
+    document.body.style.backgroundImage = "url('assets/img/renseignement.gif')";
+}
+
+function suite4() {
+    chapitre15Div.style.display = "none";
+    chapitre16Div.style.display = "block";
+    document.body.style.backgroundImage = "url('assets/img/renseignement.gif')";
 }
